@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Tractus.Ndi.StillSource2": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:21154;http://localhost:21155"
+    }
+  }
+}
